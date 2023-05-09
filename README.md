@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>University Database Project</h1>
-    <p>This project is a simple university database system created using Python and MySQL Workbench. The purpose of this project is to provide a database system that can store and manage data related to students, courses, and instructors in a university.</p>
+    <p>This project is a simple university database system created using Python and MySQL Workbench. The purpose of this project is to provide a database system that can store and manage data related to students in a university.</p>
 <h2>Installation</h2>
 <ol>
   <li>Clone the repository to your local machine using <code>git clone</code>.</li>
