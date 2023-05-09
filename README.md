@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>University Database Project</title>
   </head>
   <body>
     <h1>University Database Project</h1>
