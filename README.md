@@ -1,29 +1,44 @@
-University Database Project
-This project is a simple university database system created using Python and MySQL Workbench. The purpose of this project is to provide a database system that can store and manage data related to students, courses, and instructors in a university.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>University Database Project</title>
+  </head>
+  <body>
+    <h1>University Database Project</h1>
+    <p>This project is a simple university database system created using Python and MySQL Workbench. The purpose of this project is to provide a database system that can store and manage data related to students, courses, and instructors in a university.</p>
+less
+Copy code
+<h2>Installation</h2>
+<ol>
+  <li>Clone the repository to your local machine using <code>git clone</code>.</li>
+  <li>Install MySQL Workbench and Python if you haven't already.</li>
+  <li>Create a new MySQL server and import the database schema using the <code>.sql</code> file provided in the <code>database</code> folder.</li>
+  <li>Update the <code>config.py</code> file with your MySQL server information.</li>
+</ol>
 
-Installation
-Clone the repository to your local machine using git clone.
-Install MySQL Workbench and Python if you haven't already.
-Create a new MySQL server and import the database schema using the .sql file provided in the database folder.
-Update the config.py file with your MySQL server information.
-Usage
-To use the program, run main.py using Python.
-Follow the on-screen prompts to interact with the database.
-Features
-This university database system includes the following features:
+<h2>Usage</h2>
+<ol>
+  <li>To use the program, run <code>main.py</code> using Python.</li>
+  <li>Follow the on-screen prompts to interact with the database.</li>
+</ol>
 
-Add, view, update, and delete data related to students, courses, and instructors.
-View course rosters and instructor schedules.
-Generate reports on student grades, course enrollment, and instructor workload.
-Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+<h2>Features</h2>
+<ul>
+  <li>Add, view, update, and delete data related to students.</li>
+  <li>View course rosters and instructor schedules.</li>
+  <li>Generate reports on student grades, course enrollment, and instructor workload.</li>
+</ul>
 
-Fork the repository.
-Create a new branch for your changes.
-Make your changes and test them thoroughly.
-Submit a pull request with a detailed description of your changes.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you would like to contribute to this project, please follow these steps:</p>
+<ol>
+  <li>Fork the repository.</li>
+  <li>Create a new branch for your changes.</li>
+  <li>Make your changes and test them thoroughly.</li>
+  <li>Submit a pull request with a detailed description of your changes.</li>
+</ol>
 
-Acknowledgements
-This project was created as a part of a university course in database management. Thank you to our professor for providing guidance and support throughout the project.
+
+<h2>Acknowledgements</h2>
+<p>This project was created as a part of a university course in database management. Thank you to our professor for providing guidance and support throughout the project.</p>
