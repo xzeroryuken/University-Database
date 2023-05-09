@@ -13,7 +13,7 @@ Copy code
   <li>Clone the repository to your local machine using <code>git clone</code>.</li>
   <li>Install MySQL Workbench and Python if you haven't already.</li>
   <li>Create a new MySQL server and import the database schema using the <code>.sql</code> file provided in the <code>database</code> folder.</li>
-  <li>Update the <code>config.py</code> file with your MySQL server information.</li>
+  <li>Update the <code>main.py</code> file with your MySQL server information.</li>
 </ol>
 
 <h2>Usage</h2>
