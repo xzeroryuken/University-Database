@@ -7,9 +7,9 @@ import sys
 
 # establish a connection to the database
 mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="Denji123@",
+    host="your host",
+    user="user name",
+    password="password",
     database="university"
 )
 
